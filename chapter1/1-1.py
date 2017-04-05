@@ -29,7 +29,8 @@ def n(times):
 
 def nlgn(times):
     '''
-    nlgn = t. for large t, n is around t/lgt <---lower bound 
+    nlgn = t. for large t, n is around t/lgt 
+    set lower bound to t/lgt
     set upper bound to t
     '''
     res = []
